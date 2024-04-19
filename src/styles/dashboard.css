@@ -1,0 +1,70 @@
+
+
+
+.brand {
+  font-size: 2rem;
+  padding: 10px;
+}
+
+.dashboard-title{
+        /* margin: 15px; */
+        margin-bottom: 70px;
+}
+.content {
+  padding: 30px;
+}
+
+.card-container {
+  width: 285px;
+  border-radius: 0%;
+  height: 150px;
+}
+
+.icon-container {
+  font-size: 30px;
+}
+
+.image-container {
+  margin: 3px;
+  padding: 2px;
+}
+
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+.image-grid img {
+  width: 33.33%; /* Each image takes up one-third of the container */
+  box-sizing: border-box; /* Include padding and border in the width */
+  padding: 3px; /* Adjust as needed for spacing between images */
+  margin: 25px;
+}
+
+/* .image-container{
+        margin: 50px;
+} */
+
+.recentActivity-container{
+  border-radius: 0%;
+}
+.timeSheet-container{
+     /* height: 370px;  */
+     /* margin: 5px;   */
+     margin-left: 25px;
+     border-radius: 0%;
+}
+
+.thisWeek-container{
+  margin: 3px;
+}
+
+
+.projects-container{
+ 
+  margin-left: 25px;
+}
+
+.sidebar-container{
+font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+color: red;
+}
